@@ -1,2 +1,2 @@
-<h1>"Hello DEvOps Entuziast!!!" Welcome to DevOps Project-2!!! </h1>
+<h1>"Hello DevOps Enthuziast!!!" Welcome to DevOps Project-2!!! </h1>
 
